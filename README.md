@@ -12,3 +12,11 @@ understand if statements in rust
 understand external file calls if any in the language 
 
 combine for the expected output of fizz buzz
+
+
+items used rust compiler
+conda install conda-forge::rust
+
+atom text editor
+
+powershell
