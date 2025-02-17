@@ -16,8 +16,7 @@ combine for the expected output of fizz buzz
 
 items used rust compiler
 
-
-conda install conda-forge::rust
+https://www.rust-lang.org/tools/install?platform_override=win
 
 atom text editor
 
